@@ -1,4 +1,7 @@
 # MediCare - Doctor Appointment System
+## 🚀 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://dynamic-alfajores-8aef2a.netlify.app)
 
 
 
